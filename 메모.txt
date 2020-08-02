@@ -6,3 +6,13 @@ mongodb+srv://imakeit:ekzjtm0883^^@cluster0.y5bhb.mongodb.net/<dbname>?retryWrit
 
 npm install express --save
 npm install mongoose --save
+npm install body-parser --save
+npm install nodemon --save-dev
+
+
+
+
+
+githum hosam33@hanmail.net ekzjtm0883^^
+PS G:\nodereact\boiler-plate> git remote add origin https://github.com/hosamkwon/boiler-plate-ko.git
+PS G:\nodereact\boiler-plate> git push -u origin master
