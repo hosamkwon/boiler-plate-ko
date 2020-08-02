@@ -1,0 +1,8 @@
+https://cloud.mongodb.com/
+몽고디비
+kimi532@naver.com/ekzjtm0883^^
+유저 imakeit/ekzjtm0883^^
+mongodb+srv://imakeit:ekzjtm0883^^@cluster0.y5bhb.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+npm install express --save
+npm install mongoose --save
